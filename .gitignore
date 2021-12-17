@@ -1,3 +1,6 @@
+# My Creation for hiding my project each file
+about.txt
+
 /vendor/
 node_modules/
 npm-debug.log
